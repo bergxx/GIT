@@ -23,5 +23,5 @@ git log --oneline
 ```
 Команда которая позволяет переключаться между последними коммитами
 ```sh
-git checkout
+git checkout <branch_name>
 ```
