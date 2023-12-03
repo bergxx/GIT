@@ -38,5 +38,5 @@ git branch <имя_ветки>
 
 Удаление ветки
 ```sh
-git branch -d <name_branch>
+git branch -d <имя_ветки>
 ```
