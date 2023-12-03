@@ -11,7 +11,7 @@ git add
 ```
 Команда для записи индексированных изменений в репозиторий Git
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 Просмотр истории коммитов
 ```sh
